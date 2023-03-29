@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Multinegocios</title>
+	<atom:link href="http://localhost/wordpress-trunk/feed/?simply_static_page=1144" rel="self" type="application/rss+xml" />
+	<link>https://joseeruano.github.io/heidydiaz</link>
+	<description>Asesorías para productos alimenticios</description>
+	<lastBuildDate>Wed, 29 Mar 2023 22:17:58 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Capacitaciones</title>
+		<link>https://joseeruano.github.io/heidydiaz/capacitaciones/</link>
+		
+		<dc:creator><![CDATA[heidy]]></dc:creator>
+		<pubDate>Wed, 22 Mar 2023 03:07:06 +0000</pubDate>
+				<category><![CDATA[Servicios]]></category>
+		<guid isPermaLink="false">https://joseeruano.github.io/heidydiaz/?p=1642</guid>
+
+					<description><![CDATA[¿Qué ofrecemos?]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-uagb-advanced-heading uagb-block-889fae90"><h2 class="uagb-heading-text">Capacitaciones</h2></div>
+
+
+
+<p>¿Qué ofrecemos?<br><br><br><br></p>
+
+
+
+<div class="wp-block-uagb-info-box uagb-block-0bece85e uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Buenas prácticas de manufactura</p></div></div>
+
+
+
+<div class="wp-block-uagb-info-box uagb-block-86164b7f uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Buenas prácticas de higiene personal</p></div></div>
+
+
+
+<div class="wp-block-uagb-info-box uagb-block-b7c9db8b uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Limpieza y desinfección &#8211; POES </p></div></div>
+
+
+
+<div class="wp-block-uagb-info-box uagb-block-86716bfb uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">ISO 22,000</p></div></div>
+
+
+
+<div class="wp-block-uagb-info-box uagb-block-dc3c9359 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Capacitación de procesos de acuerdo a la naturaleza de la industria</p></div></div>
+
+
+
+<div class="wp-block-uagb-info-box uagb-block-eec66a27 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">PEPS</p></div></div>
+
+
+<section id='helpie-faq-6424bccef0ba4' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (heidydiaz88@hotmail.com) o escríbenos a nuestro número de WhatsApp (+502 3517 0394)</p>
+</div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1703" data-item="hfaq-post-1703" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cuáles son los tipos de emprendimientos que han ayudado?</div></div><div class="accordion__body" style="background:transparent;"><p>Hemos ayudado a diversidad de emprendimientos, principalmente:</p>
+<ol>
+<li>Cajetas</li>
+<li>Helados</li>
+<li>Mantequillas de Maní, Almendra</li>
+<li>Bebidas de leche</li>
+<li>Bebidas a base de café</li>
+<li>Condimentos</li>
+<li>Obleas</li>
+<li>Entre otros.</li>
+</ol>
+</div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1629" data-item="hfaq-post-1629" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo lo entregamos?</div></div><div class="accordion__body" style="background:transparent;"><div class="page" title="Page 4">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>Carpeta digital con todo lo anteriormente descrito.</p>
+</div>
+</div>
+</div>
+</div>
+</div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1621" data-item="hfaq-post-1621" style="background:transparent;" data-tags=""><div class="accordion__title">¿Tiempo de Entrega?</div></div><div class="accordion__body" style="background:transparent;"><p><span style="font-size: 16px;">6 días hábiles, a partir que el cliente entrega la documentación necesaria para realizar el etiquetado nutricional. Si es otro tipo de asesoría le haremos saber por medio de correo electrónico, cuál será el tiempo estimado</span></p>
+</div></li></article></section>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Etiquetado Nutricional</title>
+		<link>https://joseeruano.github.io/heidydiaz/etiquetadonutricional/</link>
+		
+		<dc:creator><![CDATA[heidy]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 02:45:13 +0000</pubDate>
+				<category><![CDATA[Servicios]]></category>
+		<guid isPermaLink="false">https://joseeruano.github.io/heidydiaz/?p=1617</guid>
+
+					<description><![CDATA[¿Qué Incluye?]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-uagb-advanced-heading uagb-block-5f88a817"><h2 class="uagb-heading-text">Etiquetado Nutricional</h2></div>
+
+
+
+<p>¿Qué Incluye?</p>
+
+
+
+<div class="wp-block-uagb-container uagb-block-021c49fb alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+<div class="wp-block-uagb-container uagb-block-3a1baa74">
+<div class="wp-block-uagb-info-box uagb-block-b6962fd6 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>I</h3></div><p class="uagb-ifb-desc">Elaboración de etiquetado nutricional por medio de tablas autorizadas de<br>composición de alimentos</p></div></div>
+</div>
+
+
+
+<div class="wp-block-uagb-container uagb-block-650a971d">
+<div class="wp-block-uagb-info-box uagb-block-e8e9beef uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>II</h3></div><p class="uagb-ifb-desc">Entrega de etiqueta nutricional (diseño) lista<br>para colocar en el empaque, según lineamientos establecidos por<br>autoridades sanitarias.</p></div></div>
+</div>
+
+
+
+<div class="wp-block-uagb-container uagb-block-361f74e3">
+<div class="wp-block-uagb-info-box uagb-block-d681242d uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>III</h3></div><p class="uagb-ifb-desc">Elaboración de etiquetado general de alimentos procesados.</p></div></div>
+</div>
+
+
+
+<div class="wp-block-uagb-container uagb-block-337a7376">
+<div class="wp-block-uagb-info-box uagb-block-353a64f3 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>IV</h3></div><p class="uagb-ifb-desc">Desarrollo de ficha técnica del producto terminado incluyendo parámetros microbiológicos, fisicoquímicos y<br>organolépticos.</p></div></div>
+</div>
+</div></div>
+
+
+<section id='helpie-faq-6424bccf03f6f' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (heidydiaz88@hotmail.com) o escríbenos a nuestro número de WhatsApp (+502 3517 0394)</p>
+</div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1703" data-item="hfaq-post-1703" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cuáles son los tipos de emprendimientos que han ayudado?</div></div><div class="accordion__body" style="background:transparent;"><p>Hemos ayudado a diversidad de emprendimientos, principalmente:</p>
+<ol>
+<li>Cajetas</li>
+<li>Helados</li>
+<li>Mantequillas de Maní, Almendra</li>
+<li>Bebidas de leche</li>
+<li>Bebidas a base de café</li>
+<li>Condimentos</li>
+<li>Obleas</li>
+<li>Entre otros.</li>
+</ol>
+</div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1629" data-item="hfaq-post-1629" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo lo entregamos?</div></div><div class="accordion__body" style="background:transparent;"><div class="page" title="Page 4">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>Carpeta digital con todo lo anteriormente descrito.</p>
+</div>
+</div>
+</div>
+</div>
+</div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1621" data-item="hfaq-post-1621" style="background:transparent;" data-tags=""><div class="accordion__title">¿Tiempo de Entrega?</div></div><div class="accordion__body" style="background:transparent;"><p><span style="font-size: 16px;">6 días hábiles, a partir que el cliente entrega la documentación necesaria para realizar el etiquetado nutricional. Si es otro tipo de asesoría le haremos saber por medio de correo electrónico, cuál será el tiempo estimado</span></p>
+</div></li></article></section>
+
+
+<div class="wp-block-uagb-call-to-action uagb-block-2f126e70 wp-block-button"><div class="uagb-cta__wrap"><h3 class="uagb-cta__title">Solicita nuestra asesoría</h3><p class="uagb-cta__desc">Comunícate con nosotros y dejanos ayudarte a crecer tu idea.</p></div><div class="uagb-cta__buttons"><a href="http://wa.link/o4x9w9" class="uagb-cta__button-link-wrapper wp-block-button__link" target="_blank" rel="noopener noreferrer">WhatsApp<svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg></a></div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Asesoría Alimentaria</title>
+		<link>https://joseeruano.github.io/heidydiaz/asesoriaalimentaria/</link>
+		
+		<dc:creator><![CDATA[heidy]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 02:41:04 +0000</pubDate>
+				<category><![CDATA[Servicios]]></category>
+		<guid isPermaLink="false">https://joseeruano.github.io/heidydiaz/?p=1</guid>
+
+					<description><![CDATA[¿Qué realizamos?]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-uagb-advanced-heading uagb-block-90c1a4fa"><h2 class="uagb-heading-text">Asesoría Alimentaria</h2></div>
+
+
+
+<p>¿Qué realizamos?</p>
+
+
+
+<div class="wp-block-uagb-icon-list uagb-block-0c365d11"><div class="uagb-icon-list__wrap">
+<div class="wp-block-uagb-icon-list-child uagb-block-7346b518"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Manuales de calidad</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-9aa4d50c"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Procedimientos</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-c83760d6"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">POES &#8211; Limpieza y Desinfección</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-786ed048"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Formatos/Registros operacionales</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-a2781b4a"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Planes de muestreo de acuerdo a reglamentación</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-6cd1fa21"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Detección de plagas y asesoramiento para el control (en conjunto con una empresa especializada en el tema) </span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-baf55b3c"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Panel sensorial de productos</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-20d24db2"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Asesoramiento en control de proveedores</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-7183b0f6"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Asesoramiento en procesos de producción (mayor productividad)</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-4a039e05"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Estandarización de procesos</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-0a8a8e54"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Prevención de accidentes</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-74527387"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Investigación y desarrollo de productos nuevos</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-c5d2a338"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Auditorias personalizadas (según productos)</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-48940a86"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Auditorias a personal &#8211; Higiene personal</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-5d223852"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Etiquetado nutricional y etiquetado general de alimentos</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-c459f5fb"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Trámites de licencias y registros sanitarios</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-7dff9fa4"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Trámites de tarjetas de salud y pulmones a personal, así como su control</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-ba228cb6"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Trámite de tarjeta de manipulación de alimentos</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-87acab6b"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Control de salud de personal</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-034c0e9a"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Seguimiento de quejas y reclamos</span></div>
+
+
+
+<div class="wp-block-uagb-icon-list-child uagb-block-2c0d4be7"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Revisión de aditivos y asesoría según reglamentación</span></div>
+</div></div>
+
+
+<section id='helpie-faq-6424bccf0ae9c' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (heidydiaz88@hotmail.com) o escríbenos a nuestro número de WhatsApp (+502 3517 0394)</p>
+</div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1703" data-item="hfaq-post-1703" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cuáles son los tipos de emprendimientos que han ayudado?</div></div><div class="accordion__body" style="background:transparent;"><p>Hemos ayudado a diversidad de emprendimientos, principalmente:</p>
+<ol>
+<li>Cajetas</li>
+<li>Helados</li>
+<li>Mantequillas de Maní, Almendra</li>
+<li>Bebidas de leche</li>
+<li>Bebidas a base de café</li>
+<li>Condimentos</li>
+<li>Obleas</li>
+<li>Entre otros.</li>
+</ol>
+</div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1629" data-item="hfaq-post-1629" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo lo entregamos?</div></div><div class="accordion__body" style="background:transparent;"><div class="page" title="Page 4">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>Carpeta digital con todo lo anteriormente descrito.</p>
+</div>
+</div>
+</div>
+</div>
+</div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1621" data-item="hfaq-post-1621" style="background:transparent;" data-tags=""><div class="accordion__title">¿Tiempo de Entrega?</div></div><div class="accordion__body" style="background:transparent;"><p><span style="font-size: 16px;">6 días hábiles, a partir que el cliente entrega la documentación necesaria para realizar el etiquetado nutricional. Si es otro tipo de asesoría le haremos saber por medio de correo electrónico, cuál será el tiempo estimado</span></p>
+</div></li></article></section>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
