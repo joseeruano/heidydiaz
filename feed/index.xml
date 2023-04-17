@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Multinegocios</title>
-	<atom:link href="http://localhost/wordpress-trunk/feed/?simply_static_page=2408" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/wordpress-trunk/feed/?simply_static_page=2672" rel="self" type="application/rss+xml" />
 	<link>https://joseeruano.github.io/heidydiaz</link>
 	<description>Asesorías para productos alimenticios</description>
-	<lastBuildDate>Wed, 29 Mar 2023 22:17:58 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Apr 2023 01:30:00 +0000</lastBuildDate>
 	<language>es-MX</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -61,7 +61,7 @@
 <div class="wp-block-uagb-info-box uagb-block-eec66a27 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">PEPS</p></div></div>
 
 
-<section id='helpie-faq-643c4e0416f31' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
+<section id='helpie-faq-643ca28a60020' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
 </div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1703" data-item="hfaq-post-1703" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cuáles son los tipos de emprendimientos que han ayudado?</div></div><div class="accordion__body" style="background:transparent;"><p>Hemos ayudado a diversidad de emprendimientos, principalmente:</p>
 <ol>
 <li>Cajetas</li>
@@ -99,7 +99,7 @@
 
 					<description><![CDATA[¿Qué Incluye?]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-uagb-advanced-heading uagb-block-5f88a817"><h2 class="uagb-heading-text">Etiquetado Nutricional</h2></div>
+<div class="wp-block-uagb-advanced-heading uagb-block-0986c387"><h2 class="uagb-heading-text">Etiquetado Nutricional</h2></div>
 
 
 
@@ -107,32 +107,32 @@
 
 
 
-<div class="wp-block-uagb-container uagb-block-021c49fb alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-container uagb-block-3a1baa74">
-<div class="wp-block-uagb-info-box uagb-block-b6962fd6 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>I</h3></div><p class="uagb-ifb-desc">Elaboración de etiquetado nutricional por medio de tablas autorizadas de<br>composición de alimentos</p></div></div>
+<div class="wp-block-uagb-container uagb-block-18874f06 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+<div class="wp-block-uagb-container uagb-block-c049715a">
+<div class="wp-block-uagb-info-box uagb-block-71ccd83e uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>I</h3></div><p class="uagb-ifb-desc">Elaboración de etiquetado nutricional por medio de tablas autorizadas de<br>composición de alimentos</p></div></div>
 </div>
 
 
 
-<div class="wp-block-uagb-container uagb-block-650a971d">
-<div class="wp-block-uagb-info-box uagb-block-e8e9beef uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>II</h3></div><p class="uagb-ifb-desc">Entrega de etiqueta nutricional (diseño) lista<br>para colocar en el empaque, según lineamientos establecidos por<br>autoridades sanitarias.</p></div></div>
+<div class="wp-block-uagb-container uagb-block-b8b97fc0">
+<div class="wp-block-uagb-info-box uagb-block-1a36c556 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>II</h3></div><p class="uagb-ifb-desc">Entrega de etiqueta nutricional (diseño) lista<br>para colocar en el empaque, según lineamientos establecidos por<br>autoridades sanitarias.</p></div></div>
 </div>
 
 
 
-<div class="wp-block-uagb-container uagb-block-361f74e3">
-<div class="wp-block-uagb-info-box uagb-block-d681242d uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>III</h3></div><p class="uagb-ifb-desc">Elaboración de etiquetado general de alimentos procesados.</p></div></div>
+<div class="wp-block-uagb-container uagb-block-2570561c">
+<div class="wp-block-uagb-info-box uagb-block-10a8823d uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>III</h3></div><p class="uagb-ifb-desc">Elaboración de etiquetado general de alimentos procesados.</p></div></div>
 </div>
 
 
 
-<div class="wp-block-uagb-container uagb-block-337a7376">
-<div class="wp-block-uagb-info-box uagb-block-353a64f3 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>IV</h3></div><p class="uagb-ifb-desc">Desarrollo de ficha técnica del producto terminado incluyendo parámetros microbiológicos, fisicoquímicos y<br>organolépticos.</p></div></div>
+<div class="wp-block-uagb-container uagb-block-b88171f8">
+<div class="wp-block-uagb-info-box uagb-block-6ae48408 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><br>IV</h3></div><p class="uagb-ifb-desc">Desarrollo de ficha técnica del producto terminado incluyendo parámetros microbiológicos, fisicoquímicos y<br>organolépticos.</p></div></div>
 </div>
 </div></div>
 
 
-<section id='helpie-faq-643c4e0420173' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
+<section id='helpie-faq-643ca28a6d1dc' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
 </div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1703" data-item="hfaq-post-1703" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cuáles son los tipos de emprendimientos que han ayudado?</div></div><div class="accordion__body" style="background:transparent;"><p>Hemos ayudado a diversidad de emprendimientos, principalmente:</p>
 <ol>
 <li>Cajetas</li>
@@ -157,7 +157,7 @@
 </div></li></article></section>
 
 
-<div class="wp-block-uagb-call-to-action uagb-block-2f126e70 wp-block-button"><div class="uagb-cta__wrap"><h3 class="uagb-cta__title">Solicita nuestra asesoría</h3><p class="uagb-cta__desc">Comunícate con nosotros y dejanos ayudarte a crecer tu idea.</p></div><div class="uagb-cta__buttons"><a href="http://wa.link/o4x9w9" class="uagb-cta__button-link-wrapper wp-block-button__link" target="_blank" rel="noopener noreferrer">WhatsApp<svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg></a></div></div>
+<div class="wp-block-uagb-call-to-action uagb-block-d476bf9d wp-block-button"><div class="uagb-cta__wrap"><h3 class="uagb-cta__title">Solicita nuestra asesoría</h3><p class="uagb-cta__desc">Comunícate con nosotros y dejanos ayudarte a crecer tu idea.</p></div><div class="uagb-cta__buttons"><a href="mailto:contacto@multinegociosgt.com" class="uagb-cta__button-link-wrapper wp-block-button__link" target="_blank" rel="noopener noreferrer">Contáctanos</a></div></div>
 ]]></content:encoded>
 					
 		
@@ -267,7 +267,7 @@
 </div></div>
 
 
-<section id='helpie-faq-643c4e042818e' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
+<section id='helpie-faq-643ca28a7ba1a' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
 </div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1703" data-item="hfaq-post-1703" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cuáles son los tipos de emprendimientos que han ayudado?</div></div><div class="accordion__body" style="background:transparent;"><p>Hemos ayudado a diversidad de emprendimientos, principalmente:</p>
 <ol>
 <li>Cajetas</li>
