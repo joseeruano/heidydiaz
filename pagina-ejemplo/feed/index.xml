@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Página de ejemplo	</title>
-	<atom:link href="http://localhost/wordpress-trunk/pagina-ejemplo/feed/?simply_static_page=2004" rel="self" type="application/rss+xml" />
-	<link>https://joseeruano.github.io/heidydiaz</link>
+	<atom:link href="http://localhost/wordpress-trunk/pagina-ejemplo/feed/?simply_static_page=3795" rel="self" type="application/rss+xml" />
+	<link>https://joseeruano.github.io/heidydiaz/pagina-ejemplo/</link>
 	<description>Asesorías para productos alimenticios</description>
 	<lastBuildDate>Sun, 26 Feb 2023 02:41:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
