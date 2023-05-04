@@ -9,7 +9,7 @@
 
 <channel>
 	<title>FAQs Archivo - Multinegocios</title>
-	<atom:link href="http://localhost/wordpress-trunk/preguntasfrecuentes/feed/?simply_static_page=4111" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/wordpress-trunk/preguntasfrecuentes/feed/?simply_static_page=4267" rel="self" type="application/rss+xml" />
 	<link>https://joseeruano.github.io/heidydiaz/preguntasfrecuentes/</link>
 	<description>Asesorías para productos alimenticios</description>
 	<lastBuildDate>Sun, 16 Apr 2023 17:32:48 +0000</lastBuildDate>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://joseeruano.github.io/heidydiaz/wp-content/uploads/2023/03/cropped-logomulti-1-32x32.png</url>
+	<title>FAQs Archivo - Multinegocios</title>
+	<link>https://joseeruano.github.io/heidydiaz/preguntasfrecuentes/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>¿Cómo nos podemos comunicar con ustedes?</title>
 		<link>https://joseeruano.github.io/heidydiaz/preguntasfrecuentes/como-nos-podemos-comunicar-con-ustedes/</link>
