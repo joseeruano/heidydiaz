@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Multinegocios, Autor Multinegocios</title>
-	<atom:link href="http://localhost/wordpress-trunk/author/heidy/feed/?simply_static_page=3792" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/wordpress-trunk/author/heidy/feed/?simply_static_page=4094" rel="self" type="application/rss+xml" />
 	<link>https://joseeruano.github.io/heidydiaz/author/heidy/</link>
 	<description>Asesorías para productos alimenticios</description>
-	<lastBuildDate>Mon, 24 Apr 2023 22:47:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 May 2023 20:59:27 +0000</lastBuildDate>
 	<language>es-MX</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,8 +20,8 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
-		<title>Capacitaciones</title>
-		<link>https://joseeruano.github.io/heidydiaz/capacitaciones/</link>
+		<title>Capacitacionesindustiraalimenticia</title>
+		<link>https://joseeruano.github.io/heidydiaz/capacitacionesindustriaalimenticiasguatemala/</link>
 		
 		<dc:creator><![CDATA[Multinegocios]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 03:07:06 +0000</pubDate>
@@ -29,10 +29,10 @@
 		<guid isPermaLink="false">https://joseeruano.github.io/heidydiaz/?p=1642</guid>
 
 					<description><![CDATA[<p>¿Qué ofrecemos?</p>
-<p>El cargo <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz/capacitaciones/">Capacitaciones</a> apareció primero en <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz">Multinegocios</a>.</p>
+<p>El cargo <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz/capacitacionesindustriaalimenticiasguatemala/">Capacitacionesindustiraalimenticia</a> apareció primero en <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz">Multinegocios</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-uagb-advanced-heading uagb-block-e4937aba"><h2 class="uagb-heading-text">Capacitaciones</h2></div>
+<div class="wp-block-uagb-advanced-heading uagb-block-f4ba582a"><h2 class="uagb-heading-text">Capacitaciones</h2></div>
 
 
 
@@ -40,30 +40,30 @@
 
 
 
-<div class="wp-block-uagb-info-box uagb-block-ffc48632 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Buenas prácticas de manufactura</p></div></div>
+<div class="wp-block-uagb-info-box uagb-block-f8283926 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Buenas prácticas de manufactura</p></div></div>
 
 
 
-<div class="wp-block-uagb-info-box uagb-block-d063e4f9 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Buenas prácticas de higiene personal</p></div></div>
+<div class="wp-block-uagb-info-box uagb-block-aad397b7 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Buenas prácticas de higiene personal</p></div></div>
 
 
 
-<div class="wp-block-uagb-info-box uagb-block-af786566 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Limpieza y desinfección &#8211; POES </p></div></div>
+<div class="wp-block-uagb-info-box uagb-block-29818345 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Limpieza y desinfección &#8211; POES </p></div></div>
 
 
 
-<div class="wp-block-uagb-info-box uagb-block-572e3937 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">ISO 22,000</p></div></div>
+<div class="wp-block-uagb-info-box uagb-block-f06b47e9 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">ISO 22,000</p></div></div>
 
 
 
-<div class="wp-block-uagb-info-box uagb-block-70ba9c4e uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Capacitación de procesos de acuerdo a la naturaleza de la industria</p></div></div>
+<div class="wp-block-uagb-info-box uagb-block-52e08c6e uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">Capacitación de procesos de acuerdo a la naturaleza de la industria</p></div></div>
 
 
 
-<div class="wp-block-uagb-info-box uagb-block-96092a9c uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">PEPS</p></div></div>
+<div class="wp-block-uagb-info-box uagb-block-7344777a uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM371.8 211.8C382.7 200.9 382.7 183.1 371.8 172.2C360.9 161.3 343.1 161.3 332.2 172.2L224 280.4L179.8 236.2C168.9 225.3 151.1 225.3 140.2 236.2C129.3 247.1 129.3 264.9 140.2 275.8L204.2 339.8C215.1 350.7 232.9 350.7 243.8 339.8L371.8 211.8z"></path></svg></div><div class="uagb-ifb-title-wrap"></div><p class="uagb-ifb-desc">PEPS</p></div></div>
 
 
-<section id='helpie-faq-6447086b2ee01' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
+<section id='helpie-faq-645426e61e6a5' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
 </div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1703" data-item="hfaq-post-1703" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cuáles son los tipos de emprendimientos que han ayudado?</div></div><div class="accordion__body" style="background:transparent;"><p>Hemos ayudado a diversidad de emprendimientos, principalmente:</p>
 <ol>
 <li>Cajetas</li>
@@ -85,7 +85,11 @@
 </div>
 </div>
 </div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1621" data-item="hfaq-post-1621" style="background:transparent;" data-tags=""><div class="accordion__title">¿Tiempo de Entrega?</div></div><div class="accordion__body" style="background:transparent;"><p><span style="font-size: 16px">6 días hábiles, a partir que el cliente entrega la documentación necesaria para realizar el etiquetado nutricional. Si es otro tipo de asesoría le haremos saber por medio de correo electrónico, cuál será el tiempo estimado</span></p>
-</div></li></article></section><p>El cargo <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz/capacitaciones/">Capacitaciones</a> apareció primero en <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz">Multinegocios</a>.</p>
+</div></li></article></section>
+
+
+<div class="wp-block-uagb-call-to-action uagb-block-bb58b878 wp-block-button"><div class="uagb-cta__wrap"><h3 class="uagb-cta__title">Solicita nuestros servicios</h3><p class="uagb-cta__desc">Comunícate con nosotros y dejanos ayudarte a crecer tu idea.<br></p></div><div class="uagb-cta__buttons"><a href="mailto:contacto@multinegociosgt.com" class="uagb-cta__button-link-wrapper wp-block-button__link" target="_self" rel="noopener noreferrer">Contáctanos</a></div></div>
+<p>El cargo <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz/capacitacionesindustriaalimenticiasguatemala/">Capacitacionesindustiraalimenticia</a> apareció primero en <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz">Multinegocios</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -96,7 +100,7 @@
 		<link>https://joseeruano.github.io/heidydiaz/etiquetadonutricional/</link>
 		
 		<dc:creator><![CDATA[Multinegocios]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 02:45:13 +0000</pubDate>
+		<pubDate>Sat, 18 Mar 2023 08:45:13 +0000</pubDate>
 				<category><![CDATA[Servicios]]></category>
 		<guid isPermaLink="false">https://joseeruano.github.io/heidydiaz/?p=1617</guid>
 
@@ -137,7 +141,7 @@
 </div></div>
 
 
-<section id='helpie-faq-6447086b37357' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
+<section id='helpie-faq-645426e626344' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
 </div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1703" data-item="hfaq-post-1703" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cuáles son los tipos de emprendimientos que han ayudado?</div></div><div class="accordion__body" style="background:transparent;"><p>Hemos ayudado a diversidad de emprendimientos, principalmente:</p>
 <ol>
 <li>Cajetas</li>
@@ -171,7 +175,7 @@
 			</item>
 		<item>
 		<title>Asesoría Alimentaria</title>
-		<link>https://joseeruano.github.io/heidydiaz/asesoriaalimentaria/</link>
+		<link>https://joseeruano.github.io/heidydiaz/asesoriaalimenticia/</link>
 		
 		<dc:creator><![CDATA[Multinegocios]]></dc:creator>
 		<pubDate>Sun, 26 Feb 2023 02:41:04 +0000</pubDate>
@@ -179,10 +183,10 @@
 		<guid isPermaLink="false">https://joseeruano.github.io/heidydiaz/?p=1</guid>
 
 					<description><![CDATA[<p>¿Qué realizamos?</p>
-<p>El cargo <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz/asesoriaalimentaria/">Asesoría Alimentaria</a> apareció primero en <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz">Multinegocios</a>.</p>
+<p>El cargo <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz/asesoriaalimenticia/">Asesoría Alimentaria</a> apareció primero en <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz">Multinegocios</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-uagb-advanced-heading uagb-block-ea688686"><h2 class="uagb-heading-text">Asesoría Alimentaria</h2></div>
+<div class="wp-block-uagb-advanced-heading uagb-block-414af709"><h2 class="uagb-heading-text">Asesoría Alimentaria</h2></div>
 
 
 
@@ -190,92 +194,92 @@
 
 
 
-<div class="wp-block-uagb-icon-list uagb-block-7988d074"><div class="uagb-icon-list__wrap">
-<div class="wp-block-uagb-icon-list-child uagb-block-9a127cf3"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Manuales de calidad</span></div>
+<div class="wp-block-uagb-icon-list uagb-block-4454d195"><div class="uagb-icon-list__wrap">
+<div class="wp-block-uagb-icon-list-child uagb-block-3552c522"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Manuales de calidad</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-99142de2"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Procedimientos</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-7108b479"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Procedimientos</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-43060607"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">POES &#8211; Limpieza y Desinfección</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-4c4282d8"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">POES &#8211; Limpieza y Desinfección</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-310091a5"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Formatos/Registros operacionales</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-ce587ea1"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Formatos/Registros operacionales</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-c805661e"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Planes de muestreo de acuerdo a reglamentación</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-f6dcda29"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Planes de muestreo de acuerdo a reglamentación</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-bfd50fec"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Detección de plagas y asesoramiento para el control (en conjunto con una empresa especializada en el tema) </span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-bbc52938"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Detección de plagas y asesoramiento para el control (en conjunto con una empresa especializada en el tema) </span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-0c90f816"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Panel sensorial de productos</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-b35ad27b"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Panel sensorial de productos</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-40d7900f"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Asesoramiento en control de proveedores</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-a2ecc5cd"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Asesoramiento en control de proveedores</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-676725b2"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Asesoramiento en procesos de producción (mayor productividad)</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-6b015185"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Asesoramiento en procesos de producción (mayor productividad)</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-36150ced"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Estandarización de procesos</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-4c8689ec"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Estandarización de procesos</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-5f71a4c2"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Prevención de accidentes</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-a0e0bb62"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Prevención de accidentes</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-81e1f241"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Investigación y desarrollo de productos nuevos</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-53bc15bb"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Investigación y desarrollo de productos nuevos</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-199b013d"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Auditorias personalizadas (según productos)</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-990e26a7"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Auditorias personalizadas (según productos)</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-78f0fae1"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Auditorias a personal &#8211; Higiene personal</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-008bd461"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Auditorias a personal &#8211; Higiene personal</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-d1d63d96"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Etiquetado nutricional y etiquetado general de alimentos</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-202469dd"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Etiquetado nutricional y etiquetado general de alimentos</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-7f6f434f"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Trámites de licencias y registros sanitarios</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-c0ca4e46"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Trámites de licencias y registros sanitarios</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-840c5904"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Trámites de tarjetas de salud y pulmones a personal, así como su control</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-6cb86a62"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Trámites de tarjetas de salud y pulmones a personal, así como su control</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-630e7ef1"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Trámite de tarjeta de manipulación de alimentos</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-ae7cee6c"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Trámite de tarjeta de manipulación de alimentos</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-9920d4d2"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Control de salud de personal</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-2f7f4aa8"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Control de salud de personal</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-b24116a2"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Seguimiento de quejas y reclamos</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-4715dd5b"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Seguimiento de quejas y reclamos</span></div>
 
 
 
-<div class="wp-block-uagb-icon-list-child uagb-block-6c69c949"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Revisión de aditivos y asesoría según reglamentación</span></div>
+<div class="wp-block-uagb-icon-list-child uagb-block-6415cdf8"><span class="uagb-icon-list__source-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM406.6 278.6l-103.1 103.1c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25L306.8 288H128C110.3 288 96 273.7 96 256s14.31-32 32-32h178.8l-49.38-49.38c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l103.1 103.1C414.6 241.3 416 251.1 416 256C416 260.9 414.6 270.7 406.6 278.6z"></path></svg></span><span class="uagb-icon-list__label">Revisión de aditivos y asesoría según reglamentación</span></div>
 </div></div>
 
 
-<section id='helpie-faq-6447086b3da3f' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
+<section id='helpie-faq-645426e62bb7a' class='helpie-faq accordions open-first ' data-collection='' data-pagination='0' data-search='0' data-pagination-enabled='0'><h2 class="collection-title">Preguntas Frecuentes</h2><article class="accordion "><li class="accordion__item "><div class="accordion__header " data-id="post-1705" data-item="hfaq-post-1705" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cómo nos podemos comunicar con ustedes?</div></div><div class="accordion__body" style="background:transparent;"><p>Puedes contactarnos a nuestro email (contacto@multinegociosgt.com), próximamente tendremos número de WhatsApp para facilitarte comunicarte con nosotros.</p>
 </div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1703" data-item="hfaq-post-1703" style="background:transparent;" data-tags=""><div class="accordion__title">¿Cuáles son los tipos de emprendimientos que han ayudado?</div></div><div class="accordion__body" style="background:transparent;"><p>Hemos ayudado a diversidad de emprendimientos, principalmente:</p>
 <ol>
 <li>Cajetas</li>
@@ -297,7 +301,11 @@
 </div>
 </div>
 </div></li><li class="accordion__item "><div class="accordion__header " data-id="post-1621" data-item="hfaq-post-1621" style="background:transparent;" data-tags=""><div class="accordion__title">¿Tiempo de Entrega?</div></div><div class="accordion__body" style="background:transparent;"><p><span style="font-size: 16px">6 días hábiles, a partir que el cliente entrega la documentación necesaria para realizar el etiquetado nutricional. Si es otro tipo de asesoría le haremos saber por medio de correo electrónico, cuál será el tiempo estimado</span></p>
-</div></li></article></section><p>El cargo <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz/asesoriaalimentaria/">Asesoría Alimentaria</a> apareció primero en <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz">Multinegocios</a>.</p>
+</div></li></article></section>
+
+
+<div class="wp-block-uagb-call-to-action uagb-block-57f3ddea wp-block-button"><div class="uagb-cta__wrap"><h3 class="uagb-cta__title">Solicita nuestros servicios</h3><p class="uagb-cta__desc">Comunícate con nosotros y dejanos ayudarte a crecer tu idea.</p></div><div class="uagb-cta__buttons"><a href="mailto:contacto@multinegociosgt.com" class="uagb-cta__button-link-wrapper wp-block-button__link" target="_self" rel="noopener noreferrer">Contáctanos</a></div></div>
+<p>El cargo <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz/asesoriaalimenticia/">Asesoría Alimentaria</a> apareció primero en <a rel="nofollow" href="https://joseeruano.github.io/heidydiaz">Multinegocios</a>.</p>
 ]]></content:encoded>
 					
 		
