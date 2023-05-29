@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Preguntasfrecuentes archivos - Multinegocios</title>
-	<atom:link href="http://localhost/wordpress-trunk/helpie_faq_category/preguntasfrecuentes/feed/?simply_static_page=5345" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/wordpress-trunk/helpie_faq_category/preguntasfrecuentes/feed/?simply_static_page=5647" rel="self" type="application/rss+xml" />
 	<link>https://joseeruano.github.io/heidydiaz/helpie_faq_category/preguntasfrecuentes/</link>
 	<description>Asesorías para productos alimenticios</description>
-	<lastBuildDate>Fri, 12 May 2023 20:33:58 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 May 2023 19:02:30 +0000</lastBuildDate>
 	<language>es-MX</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
